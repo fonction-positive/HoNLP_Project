@@ -1,0 +1,10 @@
+numpy
+pandas
+torch
+datasets
+scikit-learn
+scipy
+transformers
+sentence-transformers
+evaluate
+gensim
